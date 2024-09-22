@@ -14,8 +14,8 @@ The Payroll System is a web application built with PHP, HTML, CSS, Bootstrap, Ja
 ![Company_Page](https://github.com/user-attachments/assets/f6366337-8438-4fce-9223-d772a0c63d74)
 *Company Page*
 
-![Employee_Page](https://github.com/user-attachments/assets/2b22c3c5-bdae-425a-a52c-8f52d24a8594)
-*Employee Page*
+![Designation_Details_Page](https://github.com/user-attachments/assets/0781efd7-306b-43bc-9e8a-6fc984da9029)
+*Designation Details Page*
 
 ## Installation
 1. Clone the repository:
